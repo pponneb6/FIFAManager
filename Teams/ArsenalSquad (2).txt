@@ -1,0 +1,16 @@
+Arsenal F.C, 83
+Wojciech szczesny, 81, gk
+Laurent Koscielny, 83, def
+Per Mertasacker, 80, def
+Hector Bellerin, 75, def
+Nacho Monreal, 78, def
+Francis Coquelin, 79, mid
+Mesuet Ozil, 87, mid
+Santi Cazorla, 85, mid
+Jack Wilshere, 83, mid
+Olivier Giroud, 82, att
+Theo Walcott, 84, att
+Alexis Sanchez, 89, att
+Aaron Ramsey, 86, mid
+Alex Oxlade Chamberlain, 82, mid
+Mathieu Debuchy, 82, def

@@ -1,0 +1,16 @@
+Fc Barcelona,86
+Lionel Messi , 98,att
+Neymar Jr., 90,att
+Luis Suarez, 90,att
+Iniesta, 89,mid
+Ivan Rakitic, 86,mid
+Xavi, 86,mid
+Sergio Busquets, 86,mid
+Pique, 85,def
+Dani Alves, 84,def
+Javier Mascherano, 83,def
+Pedro, 84,att
+Jordi Alba, 84,def
+Jeremy Mathieu, 81,def
+Rafinha, 80,mid
+Claudio Bravo, 85,gk

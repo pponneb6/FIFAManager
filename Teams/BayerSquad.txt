@@ -1,0 +1,16 @@
+FC Bayern Munich, 86
+Manuel Neur, 90,gk
+Mehdi Benatia, 85,def
+Jerome Boateng, 85,def
+Philipp Lahm, 88,mid
+Rafinhia, 79,mid
+Bastian Schweinsteiger, 88,mid
+Arjen Robben, 95,att
+Frank Ribery, 93,mid
+Thomas Muller, 89,mid
+Robert Lewandowski, 89,att
+Mario Gotze, 89,att
+David Alaba, 85,def
+Xabi Alonso, 86,mid
+Thiago Alcantara, 84,mid
+Javi Martinez, 82,def

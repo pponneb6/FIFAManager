@@ -1,0 +1,16 @@
+Real Madrid, 86
+Cristiano Ronaldo, 97,att
+Sergio Ramos, 88,def
+Toni Kroos, 86,mid
+Gareth Bale, 88,att
+Luka Modric, 87,mid
+Karim Benzema, 87,att
+James Rodriguez, 86,mid
+Pepe, 83,def
+Marcelo, 82,def
+Carvajal, 81,def
+Iker Casillas, 85,gk
+Isco, 83,mid
+Fabio Coentrao, 79,def
+Jese Rodriguez, 76,mid
+Javier Hernandez, 81,att
